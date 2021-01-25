@@ -11,9 +11,8 @@ def get_codes():
   tickers = []
   for stock in stock_codes:
     tickers.append(stock+'.NS')
-  with open( 'stock_code.txt', 'w' ) as fp:
+  with open( 'data/stock_code.txt', 'w' ) as fp:
     json.dump(tickers, fp)
 
 if __name__ == '__main__':
   get_codes()
-
