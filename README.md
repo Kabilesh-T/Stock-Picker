@@ -16,5 +16,5 @@ pip install -r requirements.txt
 ## Steps to follow:
 
 
-* Execute src/code_getter.py once to get all the stock codes
+* Execute src/helper.py to get stock codes and historical data
 * Then use the main method for the main functionality
