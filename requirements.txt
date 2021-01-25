@@ -1,0 +1,3 @@
+nsetools==1.0.11
+pprint36==3.9.0.2
+yahoo-fin==0.8.6
