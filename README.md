@@ -1,6 +1,6 @@
-# Stock-Volume-Indicator
+# Stock-Picker
 
-This is a script that will give you stocks that are above a threshold level of trading volume
+This is a project that does some basic functionalities such as getting the stock codes and getting historical data, and also has the capability of running indicators and screeners on that data
 
 
 ## Installation:
